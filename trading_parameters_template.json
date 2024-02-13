@@ -1,0 +1,9 @@
+{
+    "clientId": 2,
+    "orderType": "Limit",
+    "price": "100.00",
+    "quantity": "0.02",
+    "side": "Bid",
+    "symbol": "SOL_USDC",
+    "timeInForce": "GTC"
+}
